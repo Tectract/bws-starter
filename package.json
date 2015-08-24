@@ -1,0 +1,14 @@
+{
+  "name": "bridge21/bws-starter",
+  "version": "0.0.1",
+  "description": "bridge21/bws-starter node dependencies",
+  "dependencies": {     
+    "public": "git+https://github.com/bridge21/bitcore-wallet-service.git#master"	
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bridge21/bws-starter"
+  },
+  "homepage": "https://github.com/bridge21/bws-starter"
+}
+
