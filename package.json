@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "bridge21-BWS-starter node dependencies",
   "dependencies": {     
-    "public": "git+https://github.com/bridge21/bitcore-wallet-service.git#master"	
+    "public": "git+https://github.com/bridge21/bitcore-wallet-service.git#watch-only-endpoints"
   },
   "repository": {
     "type": "git",
